@@ -1,0 +1,1115 @@
+{
+ "sec": {
+  "GD-CN": {
+   "muc": "Mục I.I Phụ lục (giao đất, cho thuê đất)",
+   "ten": "Trường hợp giao đất, cho thuê đất – Đối với hộ gia đình, cá nhân, cộng đồng dân cư",
+   "cot": [
+    "Qui mô diện tích",
+    "Tại quận (đồng/hồ sơ)",
+    "Tại huyện (đồng/hồ sơ)"
+   ],
+   "rows": [
+    [
+     "Nhỏ hơn 500 m²",
+     "50.000",
+     "25.000"
+    ],
+    [
+     "Từ 500 m² trở lên",
+     "500.000",
+     "250.000"
+    ]
+   ]
+  },
+  "GD-TC": {
+   "muc": "Mục I.II Phụ lục (giao đất, cho thuê đất)",
+   "ten": "Trường hợp giao đất, cho thuê đất – Đối với tổ chức, cơ sở tôn giáo",
+   "cot": [
+    "Qui mô diện tích",
+    "Mức thu (đồng/hồ sơ)"
+   ],
+   "rows": [
+    [
+     "Nhỏ hơn 10.000 m²",
+     "2.000.000"
+    ],
+    [
+     "Từ 10.000 m² đến dưới 100.000 m²",
+     "3.000.000"
+    ],
+    [
+     "Từ 100.000 m² trở lên",
+     "5.000.000"
+    ]
+   ]
+  },
+  "III": {
+   "muc": "Mục II.III Phụ lục",
+   "ten": "Đăng ký, cấp giấy chứng nhận lần đầu đơn lẻ, từng hộ gia đình, cá nhân",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ – Áp dụng cho khu vực 5 Huyện",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.600.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "1.700.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "2.400.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Hồ sơ – Áp dụng cho các Quận và TP Thủ Đức",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.800.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "1.900.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "2.650.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa (Toàn Thành phố)",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "60.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "30.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "80.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "IV": {
+   "muc": "Mục II.IV Phụ lục",
+   "ten": "Đăng ký, cấp giấy chứng nhận lần đầu đối với đất tổ chức",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ – Áp dụng cho khu vực 5 Huyện",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.850.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "2.000.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "2.650.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Hồ sơ – Áp dụng cho các Quận và TP Thủ Đức",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.950.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "2.150.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "2.800.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa (Toàn Thành phố)",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "75.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "30.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "90.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "VII": {
+   "muc": "Mục II.VII Phụ lục",
+   "ten": "Đăng ký, cấp đổi, cấp lại giấy chứng nhận riêng lẻ đối với hộ gia đình, cá nhân",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "500.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "500.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "650.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "60.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "20.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "95.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "VIII": {
+   "muc": "Mục II.VIII Phụ lục",
+   "ten": "Đăng ký, cấp đổi, cấp lại giấy chứng nhận riêng lẻ đối với tổ chức",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "800.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "800.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "1.000.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "60.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "20.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "95.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "IX": {
+   "muc": "Mục II.IX Phụ lục",
+   "ten": "Đăng ký biến động mà thực hiện cấp mới giấy chứng nhận đối với hộ gia đình, cá nhân",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "810.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "950.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "1.200.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "50.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "70.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "120.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "X1": {
+   "muc": "Mục II.X.1 Phụ lục",
+   "ten": "Đăng ký biến động mà không thực hiện cấp mới giấy chứng nhận đối với hộ gia đình, cá nhân – nhóm X.1",
+   "loai": [
+    "Chuyển đổi quyền sử dụng đất;",
+    "Chuyển nhượng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;",
+    "Thừa kế quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;",
+    "Tặng cho quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;",
+    "Góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Xóa đăng ký góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo thỏa thuận xử lý nợ thế chấp;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo kết quả giải quyết tranh chấp đất đai;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo quyết định giải quyết khiếu nại, tố cáo về đất đai;",
+    "Chuyển quyền sử dụng cả thửa đất, tài sản gắn liền với đất theo bản án, quyết định của tòa án, quyết định của cơ quan thi hành án;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo kết quả đấu giá đất;",
+    "Chuyển đổi hộ gia đình, cá nhân sử dụng đất thành tổ chức kinh tế của hộ gia đình cá nhân đó mà không thuộc trường hợp chuyển nhượng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;",
+    "Chuyển mục đích sử dụng toàn bộ thửa đất;",
+    "Gia hạn sử dụng đất (kể cả trường hợp tiếp tục sử dụng đất nông nghiệp của hộ gia đình, cá nhân;",
+    "Chuyển từ hình thức thuê đất sang hình thức giao đất có thu tiền sử dụng đất hoặc chuyển từ hình thức thuê đất trả tiền hàng năm sang hình thức thuê đất trả tiền một lần hoặc chuyển từ hình thức Nhà nước giao đất không thu tiền sang hình thức giao đất có thu tiền hay thuê đất;",
+    "Thay đổi thông tin về tài sản gắn liền với đất đã ghi trên GCN hoặc đã thể hiện trong cơ sở dữ liệu;",
+    "Ghi nợ và xóa nợ về nghĩa vụ tài chính."
+   ],
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "600.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "710.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "900.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "20.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "20.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "40.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "X2": {
+   "muc": "Mục II.X.2 Phụ lục",
+   "ten": "Đăng ký biến động mà không thực hiện cấp mới giấy chứng nhận đối với hộ gia đình, cá nhân – nhóm X.2",
+   "loai": [
+    "Thay đổi diện tích do sạt lở tự nhiên một phần thửa đất;",
+    "Cho thuê, cho thuê lại quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Xóa đăng ký cho thuê, cho thuê lại đất tài sản gắn liền với đất;",
+    "Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất đổi tên, nhân thân hoặc địa chỉ;",
+    "Xác lập hoặc thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề;",
+    "Có thay đổi đối với những hạn chế về quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Phát hiện có sai sót, nhầm lẫn về nội dung thông tin trong hồ sơ địa chính và trên GCN."
+   ],
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "550.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "650.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "805.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa (tính giống mục X.3)",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "1.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "7.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "10.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "X3": {
+   "muc": "Mục II.X.3 Phụ lục",
+   "ten": "Đăng ký biến động mà không thực hiện cấp mới giấy chứng nhận đối với hộ gia đình, cá nhân – nhóm X.3",
+   "loai": [
+    "Trường hợp đo đạc lại thửa đất mà có thay đổi diện tích, số hiệu thửa đất, số hiệu tờ bản đồ;",
+    "Thay đổi tên đơn vị hành chính, điều chỉnh địa giới hành chính theo quyết định của cơ quan nhà nước có thẩm quyền;",
+    "Thu hồi quyền sử dụng đất."
+   ],
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "160.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "160.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "200.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "1.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "7.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "10.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "XI": {
+   "muc": "Mục II.XI Phụ lục",
+   "ten": "Đăng ký biến động đất đai đối với tổ chức – trường hợp cấp mới giấy chứng nhận",
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.600.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "1.600.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "2.050.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "50.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "30.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "65.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "XII1": {
+   "muc": "Mục II.XII.1 Phụ lục",
+   "ten": "Đăng ký biến động đất đai đối với tổ chức – trường hợp không thực hiện cấp mới giấy chứng nhận – nhóm XII.1",
+   "loai": [
+    "Trường hợp đo đạc lại thửa đất mà có thay đổi diện tích, số hiệu thửa đất, số hiệu tờ bản đồ;",
+    "Thay đổi tên đơn vị hành chính, điều chỉnh địa giới hành chính theo quyết định của cơ quan nhà nước có thẩm quyền;",
+    "Thu hồi quyền sử dụng đất."
+   ],
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "225.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "225.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "250.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "4.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "4.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "4.000"
+      ]
+     ]
+    ]
+   ]
+  },
+  "XII2": {
+   "muc": "Mục II.XII.2 Phụ lục",
+   "ten": "Đăng ký biến động đất đai đối với tổ chức – trường hợp không thực hiện cấp mới giấy chứng nhận – nhóm XII.2",
+   "loai": [
+    "Thay đổi diện tích do sạt lở tự nhiên một phần thửa đất;",
+    "Cho thuê, cho thuê lại quyền sử dụng đất (trừ trường hợp cho thuê, cho thuê lại quyền sử dụng đất trong khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế), tài sản gắn liền với đất;",
+    "Xóa đăng ký cho thuê, cho thuê lại đất tài sản gắn liền với đất;",
+    "Chuyển nhượng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;",
+    "Góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Xóa đăng ký góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo thỏa thuận xử lý nợ thế chấp;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo kết quả giải quyết tranh chấp đất đai;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo quyết định giải quyết khiếu nại, tố cáo về đất đai;",
+    "Chuyển quyền sử dụng cả thửa đất, tài sản gắn liền với đất theo bản án, quyết định của tòa án, quyết định của cơ quan thi hành án;",
+    "Chuyển quyền sử dụng đất, tài sản gắn liền với đất theo kết quả đấu giá đất;",
+    "Trường hợp chuyển đổi công ty; chia, tách, hợp nhất, sáp nhập doanh nghiệp;",
+    "Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất đổi tên, thay đổi thông tin về giấy tờ pháp nhân, nhân thân hoặc địa chỉ;",
+    "Chủ đầu tư xây dựng nhà chung cư bán căn hộ và làm thủ tục đăng ký biến động đợt đầu;",
+    "Xác lập hoặc thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề;",
+    "Chuyển mục đích sử dụng toàn bộ thửa đất;",
+    "Gia hạn sử dụng đất;",
+    "Chuyển từ hình thức thuê đất sang hình thức giao đất có thu tiền sử dụng đất hoặc chuyển từ hình thức thuê đất trả tiền hàng năm sang hình thức thuê đất trả tiền một lần hoặc chuyển từ hình thức Nhà nước giao đất không thu tiền sang hình thức giao đất có thu tiền hay thuê đất;",
+    "Thay đổi thông tin về tài sản gắn liền với đất đã ghi trên GCN hoặc đã thể hiện trong cơ sở dữ liệu;",
+    "Có thay đổi đối với những hạn chế về quyền sử dụng đất, tài sản gắn liền với đất;",
+    "Phát hiện có sai sót, nhầm lẫn về nội dung thông tin trong hồ sơ địa chính và trên GCN;"
+   ],
+   "groups": [
+    [
+     "Công việc thực hiện theo Hồ sơ",
+     [
+      [
+       "Hồ sơ Đất",
+       "Hồ sơ",
+       "1.400.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Hồ sơ",
+       "1.400.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Hồ sơ",
+       "1.800.000"
+      ]
+     ]
+    ],
+    [
+     "Công việc thực hiện theo Thửa",
+     [
+      [
+       "Hồ sơ Đất",
+       "Thửa",
+       "20.000"
+      ],
+      [
+       "Hồ sơ Tài sản",
+       "Thửa",
+       "10.000"
+      ],
+      [
+       "Hồ sơ Đất và tài sản gắn liền với đất",
+       "Thửa",
+       "25.000"
+      ]
+     ]
+    ]
+   ]
+  }
+ },
+ "chung": {
+  "xiii": [
+   [
+    "In giấy chứng nhận – Đăng ký đồng loạt",
+    "GCN",
+    "20.000"
+   ],
+   [
+    "In giấy chứng nhận – Đăng ký đơn lẻ",
+    "GCN",
+    "30.000"
+   ],
+   [
+    "Quét trang A3 – Đăng ký đồng loạt",
+    "Trang",
+    "4.000"
+   ],
+   [
+    "Quét trang A3 – Đăng ký đơn lẻ",
+    "Trang",
+    "5.000"
+   ],
+   [
+    "Quét trang A4 – Đăng ký đồng loạt",
+    "Trang",
+    "3.000"
+   ],
+   [
+    "Quét trang A4 – Đăng ký đơn lẻ",
+    "Trang",
+    "4.000"
+   ]
+  ],
+  "xiv": [
+   [
+    "Chỉnh lý hồ sơ lưu trữ",
+    "Tờ A4",
+    "2.000"
+   ]
+  ],
+  "ghichu": [
+   "1. Tổng mức thu phí cho 01 trường hợp đăng ký cấp giấy chứng nhận quyền sử dụng đất và tài sản trên đất bao gồm chi tiết 05 mức thu công việc thực hiện theo hồ sơ; theo thửa; theo giấy chứng nhận; theo trang A3, A4 và theo tờ.",
+   "2. Mức thu theo các loại hình (từ mục I đến mục XII) chưa bao gồm mức thu cho công việc phục vụ thẩm định và chỉnh lý hồ sơ lưu trữ (mục XIII và mục XIV)."
+  ],
+  "mien": "Trẻ em, hộ nghèo, người cao tuổi, người khuyết tật, người có công với cách mạng, đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn trên địa bàn Thành phố được căn cứ theo quy định tại Quyết định 36/2021/QĐ-TTg ngày 13 tháng 12 năm 2021 của Thủ tướng Chính phủ về tiêu chí xác định huyện nghèo, xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo giai đoạn 2021-2025.",
+  "hannop": "Tổ chức, cá nhân đề nghị cơ quan nhà nước có thẩm quyền thực hiện phải thực hiện nộp phí trong thời gian 05 ngày làm việc tính từ ngày nhận được thông báo của cơ quan thẩm định về mức phí phải nộp.",
+  "nguon": "Nghị quyết số 02/2023/NQ-HĐND ngày 18/4/2023 của Hội đồng nhân dân Thành phố Hồ Chí Minh về mức thu phí thẩm định hồ sơ cấp giấy chứng nhận quyền sử dụng đất trên địa bàn Thành phố Hồ Chí Minh (hiệu lực từ ngày 01/6/2023)"
+ },
+ "map": {
+  "tinh-1": {
+   "tc": [
+    [
+     "GD-TC",
+     []
+    ]
+   ]
+  },
+  "xa-3": {
+   "cn": [
+    [
+     "GD-CN",
+     []
+    ]
+   ]
+  },
+  "xa-10": {
+   "cn": [
+    [
+     "GD-CN",
+     []
+    ]
+   ]
+  },
+  "xa-12": {
+   "cn": [
+    [
+     "III",
+     []
+    ]
+   ]
+  },
+  "xa-1": {
+   "cn": [
+    [
+     "III",
+     []
+    ]
+   ]
+  },
+  "xa-2": {
+   "cn": [
+    [
+     "III",
+     []
+    ]
+   ]
+  },
+  "tinh-18": {
+   "cn": [
+    [
+     "III",
+     []
+    ]
+   ],
+   "tc": [
+    [
+     "IV",
+     []
+    ]
+   ]
+  },
+  "tinh-9": {
+   "tc": [
+    [
+     "IV",
+     []
+    ]
+   ]
+  },
+  "tinh-12": {
+   "tc": [
+    [
+     "IV",
+     []
+    ]
+   ]
+  },
+  "tinh-27": {
+   "cn": [
+    [
+     "VII",
+     []
+    ]
+   ],
+   "tc": [
+    [
+     "VIII",
+     []
+    ]
+   ]
+  },
+  "tinh-20": {
+   "cn": [
+    [
+     "VII",
+     []
+    ]
+   ],
+   "tc": [
+    [
+     "VIII",
+     []
+    ]
+   ]
+  },
+  "tinh-21": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      4,
+      5
+     ]
+    ]
+   ]
+  },
+  "tinh-22": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X2",
+     [
+      1,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      1,
+      13,
+      15,
+      20
+     ]
+    ]
+   ]
+  },
+  "tinh-23": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      16
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      19
+     ]
+    ]
+   ]
+  },
+  "tinh-24": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      7,
+      8,
+      9,
+      10
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      7,
+      8,
+      9,
+      10
+     ]
+    ]
+   ]
+  },
+  "tinh-25": {
+   "cn": [
+    [
+     "X1",
+     [
+      17
+     ]
+    ]
+   ]
+  },
+  "tinh-26": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      13
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      16
+     ]
+    ]
+   ]
+  },
+  "tinh-16": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      12
+     ]
+    ]
+   ]
+  },
+  "tinh-15": {
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      12
+     ]
+    ]
+   ]
+  },
+  "tinh-17": {
+   "cn": [
+    [
+     "X2",
+     [
+      3
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XII2",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "tinh-10": {
+   "cn": [
+    [
+     "X2",
+     [
+      7
+     ]
+    ]
+   ],
+   "tc": [
+    [
+     "XII2",
+     [
+      21
+     ]
+    ]
+   ]
+  },
+  "xa-8": {
+   "cn": [
+    [
+     "X2",
+     [
+      7
+     ]
+    ]
+   ]
+  },
+  "tinh-5": {
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      17
+     ]
+    ]
+   ]
+  },
+  "xa-6": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      14
+     ]
+    ]
+   ]
+  },
+  "tinh-30": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      14
+     ]
+    ]
+   ]
+  },
+  "tinh-2": {
+   "tc": [
+    [
+     "XI",
+     []
+    ],
+    [
+     "XII2",
+     [
+      16,
+      17,
+      18
+     ]
+    ]
+   ]
+  },
+  "xa-4": {
+   "cn": [
+    [
+     "IX",
+     []
+    ],
+    [
+     "X1",
+     [
+      13,
+      14,
+      15
+     ]
+    ]
+   ]
+  }
+ }
+}
